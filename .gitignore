@@ -189,4 +189,5 @@ codegen/
 octave-workspace
 
 ####xsc
-pakages/
+packages/
+.idea/
